@@ -1,1 +1,1 @@
-# gitbit
+# gitbit 初めて～の～push～
